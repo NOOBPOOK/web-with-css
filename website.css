@@ -1,0 +1,50 @@
+.body{
+    font-family: cursive;
+}
+h1{
+    text-align:center;
+}
+ul {
+  list-style-type: none;
+  margin: ;
+  padding: 0;
+  overflow: hidden;
+  background-color: aqua;
+}
+
+li {
+    float: right;
+    margin-left:90; 
+    padding: 10;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+.kkk{
+    width:1210;
+    height:auto;
+    background-color: blueviolet;
+    border-radius: 10px;
+    padding:10px;
+    text-align: center;
+    align-self: center;
+}
+.kkk img{
+    padding: 4px;
+    margin-left:70px;
+}
+#forms{
+    padding: 10px;
+    text-align: center;
+    height:auto;
+    background-color: antiquewhite;
+}
